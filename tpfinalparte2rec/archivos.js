@@ -35,7 +35,7 @@ function preload(){
   
   fondo = loadImage('/data/fondo.gif');
   pantallas[0] = loadImage('/data/portada.png');
-  pantallas[1] = loadImage('/data/instrucciones.jpeg');
+  pantallas[1] = loadImage('/data/instrucciones.jpg');
   pantallas[2] = loadImage('/data/Hgano.jpeg');
   pantallas[3] = loadImage('/data/Kgano.jpeg');
   pantallas[4] = loadImage('/data/creditos.png');
@@ -57,3 +57,4 @@ function preload(){
   sonido[3] = loadSound('/data/ganar.mpeg');
 
 }
+
