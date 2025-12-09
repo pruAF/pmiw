@@ -1,7 +1,7 @@
 class Rival {
   constructor() {
     this.posX=30;
-    this.posY=height-190;
+    this.posY=290;
     this.tamX = 100;
     this.tamY=160;
     this.pj = rivalK;
@@ -68,3 +68,4 @@ actualizar() {
    }
   }
 }
+
