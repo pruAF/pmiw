@@ -1,5 +1,6 @@
 //Priscila Fernandez 119022/8
 //Cory Misha Matorra 120341/8
+//https://youtu.be/vrwGwnlA8ws
 
 let videojuego;
 
@@ -20,3 +21,4 @@ function keyPressed() {
 function mousePressed(){
  videojuego.click(); 
 }
+
